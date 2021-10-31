@@ -1,0 +1,9 @@
+﻿  LABA12_DOP2.cpp
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(11,1): warning C4005: max: изменение макроопределения
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(193): message : см. предыдущее определение "max"
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(32,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(33,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(38,19): warning C4101: letter: неиспользованная локальная переменная
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(38,16): warning C4101: s: неиспользованная локальная переменная
+C:\Users\gaechka\source\repos\LABA12_DOP2\LABA12_DOP2\LABA12_DOP2.cpp(128): warning C4715: insertElem: значение возвращается не при всех путях выполнения
+  LABA12_DOP2.vcxproj -> C:\Users\gaechka\source\repos\LABA12_DOP2\Debug\LABA12_DOP2.exe
