@@ -1,0 +1,4 @@
+﻿  LABA8_DOP3.cpp
+C:\Users\gaechka\source\repos\LABA8_DOP3\LABA8_DOP3\LABA8_DOP3.cpp(49,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\gaechka\source\repos\LABA8_DOP3\LABA8_DOP3\LABA8_DOP3.cpp(46,6): warning C4101: TempInt: неиспользованная локальная переменная
+  LABA8_DOP3.vcxproj -> C:\Users\gaechka\source\repos\LABA8_DOP3\Debug\LABA8_DOP3.exe
