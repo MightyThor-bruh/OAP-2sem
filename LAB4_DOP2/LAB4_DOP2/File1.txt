@@ -1,0 +1,8 @@
+Number	City	Time in	Time out	Days
+1	Minsk	15:40	17:30	Monday       
+5	Soligorsk	11:-48	13:-48	     Saturday  
+123	Brest	20:-48	20:-48	    Friday   
+344	Minsk	12:2	14:-48	   Thursday    
+4	Slutsk	18:10	21:42	       
+8	Minsk	70:-48	90:-48	 Tuesday      
+234	Pinsk	13:30	20:0	Monday      Sunday 
