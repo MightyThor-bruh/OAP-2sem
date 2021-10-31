@@ -1,0 +1,19 @@
+﻿  LABA7_dop2.cpp
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(11,2): error C2065: Stack: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(11,9): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(11,22): error C2061: синтаксическая ошибка: идентификатор "Stack"
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(21,11): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(21,4): error C3861: add: идентификатор не найден
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(22,16): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(22,12): error C3861: del: идентификатор не найден
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(23,39): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(23,61): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(24,18): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(24,12): error C3861: clear: идентификатор не найден
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(25,19): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(25,12): error C3861: infile: идентификатор не найден
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(26,19): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(26,12): error C3861: offile: идентификатор не найден
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(27,26): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(31,9): error C2065: A: необъявленный идентификатор
+C:\Users\gaechka\source\repos\LABA7_dop2\LABA7_dop2\LABA7_dop2.cpp(31,10): error C2541: delete: нельзя удалять объекты, не являющиеся указателями
