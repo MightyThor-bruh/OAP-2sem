@@ -1,0 +1,4 @@
+﻿  LABA16.cpp
+C:\Users\gaechka\source\repos\LABA16\LABA16\LABA16.cpp(28,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\gaechka\source\repos\LABA16\LABA16\LABA16.cpp(59,28): warning C4101: j: неиспользованная локальная переменная
+  LABA16.vcxproj -> C:\Users\gaechka\source\repos\LABA16\Debug\LABA16.exe
